@@ -36,7 +36,7 @@ public class City {
 	}
 
 	public String toString() {
-		return this.name + " , population: " + this.population + ", area: " + this.area + " square miles";
+		return this.name;
 	}
 
 }
